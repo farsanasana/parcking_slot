@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312194773458",
+    "project_id": "parcking-slot",
+    "storage_bucket": "parcking-slot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312194773458:android:3d5e4e37cf05a30096980b",
+        "android_client_info": {
+          "package_name": "com.example.parcking_slot_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmh6K0U5cFsPwRSLIQQvn_nUZ820ffrls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
